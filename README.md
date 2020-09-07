@@ -1,5 +1,5 @@
-# msc-thesis-spotify
-Accompanying code to MSc thesis on "Leveraging Audio States &amp; Transitions for Improved Track Sequencing in Music Streaming Sessions"
+# msc-thesis-audio-states
+Accompanying code to MSc thesis on "Leveraging Audio States & Transitions for Improved Track Sequencing in Music Streaming Sessions"
 
 ## Requirements
 - Python 3
